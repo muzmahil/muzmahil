@@ -27,7 +27,7 @@ I’m constantly learning new technologies, improving existing codebases, and pu
 ### 📊 GitHub Stats
 
 ![rootcf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzmahil&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzmnahil&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzmahil&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -45,7 +45,7 @@ I’m constantly learning new technologies, improving existing codebases, and pu
 
 ## 📫 Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/muzmahil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-%C3%A7entek-b043a0196/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedinl-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-%C3%A7entek-b043a0196/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzmahil)
 
 ---
