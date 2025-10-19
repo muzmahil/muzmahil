@@ -36,11 +36,6 @@ I’m constantly learning new technologies, improving existing codebases, and pu
   <img src="https://github-profile-trophy.vercel.app/?username=muzmahil&theme=radical&no-frame=true&margin-w=5" />
 </p>
 
-#### 📈 Activity Graph
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzmahil&theme=react-dark&hide_border=true" />
-</p>
-
 ---
 
 ## 📫 Contact Me
