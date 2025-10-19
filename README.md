@@ -50,5 +50,3 @@ I’m constantly learning new technologies, improving existing codebases, and pu
 
 ---
 
-<h3 align="center">"Code is an art. Security is its armor." 🖤</h3>
-
