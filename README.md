@@ -40,7 +40,7 @@ I’m constantly learning new technologies, improving existing codebases, and pu
 
 ## 📫 Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedinl-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-%C3%A7entek-b043a0196/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-%C3%A7entek-b043a0196/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzmahil)
 
 ---
