@@ -26,8 +26,9 @@ I’m constantly learning new technologies, improving existing codebases, and pu
 
 ### 📊 GitHub Stats
 
-![rootcf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzmahil&show_icons=true&theme=radical&hide_border=true)
+![muzmahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzmahil&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzmahil&layout=compact&theme=radical&hide_border=true)
+![muzmahil's GitHub This Year Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzmahil&theme=radical)
 
 ---
 
